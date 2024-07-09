@@ -13,6 +13,7 @@ AlexSMP est un serveur SMP (logique), Semi-RP et Faction
 
 ### Quel sont les version Minecraft d'AlexSMP ?
 AlexSMPReborn: Toute les versions*
+
 NewAlexSMP: (En voulant me connecté au serveur en 1.8.9, 1.19.2, j'ai pas réussi (Alors qu'il y a ViaVersion) donc pas encore mais bientôt !+
 
 --------------------------------------------------
