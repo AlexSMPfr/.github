@@ -30,35 +30,25 @@ NewAlexSMP:
 --------------------------------------------------
 
 ### Le(e) staff(s)
-Fondateur:
+-Fondateur:
   Antyle_YT
-Co-Fondateur:
-  AwhXTounet
   Noé
-Administrateur:
-  Matteo marans
-  Mino360
-  Test
-Modérateur:
-  dylanno_090213
-  heRGe
-  IB2M_Official
-  Jey78
-  TOine_27
-Ami:
-  Cristal
-  Just Enno
-(J'ai tout fait avec discord)
+
+-Helper:
+ -Tounet
+ -Macipe42
+ -Mino360
+ -
 
 --------------------------------------------------
 
 ### Les IP
-AlexSMPReborn: AlexSMPV1Reborn.aternos.me
-NewAlexSMP: newalexsmp.fr.falix.gg
+AlexSMPReborn: 
+NewAlexSMP: --down--
 
 --------------------------------------------------
 
 ### Merci d'avoir lu !
-README.md by Noé
+README.md by Noé and Antyle_YT
 
 --------------------------------------------------
