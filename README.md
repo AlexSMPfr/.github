@@ -31,17 +31,18 @@ NewAlexSMP:
 
 ### Le(e) staff(s)
 -Fondateur:
+
   Antyle_YT
 
   Noé
 
 -Helper:
 
- -Tounet
+ Tounet
 
- -Macipe42
+ Macipe42
 
- -Mino360
+ Mino360
 
 
 --------------------------------------------------
