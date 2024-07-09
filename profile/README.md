@@ -7,14 +7,14 @@ Naaaaan je rigole !
 --------------------------------------------------
 
 ### AlexSMP, c'est quoi ?
-AlexSMP est un serveur SMP (logique), Semi-RP et Faction
+AlexSMP est un serveur SMP et faction
 
 --------------------------------------------------
 
 ### Quel sont les version Minecraft d'AlexSMP ?
-AlexSMPReborn: Toute les versions*
+AlexSMPReborn: 1.7.2 à la 1.20.X
 
-NewAlexSMP: (En voulant me connecté au serveur en 1.8.9, 1.19.2, j'ai pas réussi (Alors qu'il y a ViaVersion) donc pas encore mais bientôt !+
+NewAlexSMP: 1.7.2 à la 1.20.X
 
 --------------------------------------------------
 
@@ -38,12 +38,13 @@ NewAlexSMP:
  -Tounet
  -Macipe42
  -Mino360
- -
+
 
 --------------------------------------------------
 
 ### Les IP
 AlexSMPReborn: 
+
 NewAlexSMP: --down--
 
 --------------------------------------------------
