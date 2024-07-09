@@ -32,11 +32,15 @@ NewAlexSMP:
 ### Le(e) staff(s)
 -Fondateur:
   Antyle_YT
+
   Noé
 
 -Helper:
+
  -Tounet
+
  -Macipe42
+
  -Mino360
 
 
