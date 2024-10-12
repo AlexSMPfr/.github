@@ -48,7 +48,7 @@ NewAlexSMP:
 --------------------------------------------------
 
 ### Les IP
-AlexSMPReborn: 
+AlexSMPReborn: alexsmp.azurhost.top
 
 NewAlexSMP: --down--
 
