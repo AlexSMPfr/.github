@@ -55,6 +55,6 @@ NewAlexSMP: --down--
 --------------------------------------------------
 
 ### Merci d'avoir lu !
-README.md by Noé and Antyle_YT
+README.md by Noé and Antyle
 
 --------------------------------------------------
